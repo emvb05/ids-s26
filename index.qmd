@@ -166,6 +166,9 @@ Markdown.
 + Patel, Vrajkumar
 + Sawyer, Riley
 + Sudarsanam, Shreya
+    - Improve my understanding of how to choose which programming language to use (i.e. R, Python, and SQL), and how to evaluate the strengths and weaknesses of popular languages in each step of the data analysis pipeline.
+    - Become more familiar with machine learning in research and industry based contexts.
+    - Learn/Demystify the process of completing a data science project from start to finish. This may involve mining, cleaning, and visualizing data and creating machine learning models to help make valuable inferences. 
 + Tessman, Sean
     - Learn how data science applies to sports analytics and performance.
     - Build a strong reproducible workflow with Git, Quarto, and Python.
@@ -287,7 +290,7 @@ Please use the following table to sign up.
    02/16 | Last, First  | Selected topic
    02/16 | Last, First  | Selected topic   
    02/18 |  |
-   02/18 |  |   
+   02/18 | Sudarsanam, Shreya | Database operation with Structured Query Language (SQL)   
    02/23 |  |   
    02/23 |  |  
    02/25 |  |
